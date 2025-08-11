@@ -37,7 +37,7 @@ Given that the UX/UI is already complete, I can focus on **efficient backend int
 
 ## Budget Proposal
 
-- **Hourly Rate**: $40 USD (within your stated range)
+- **Hourly Rate**: $45 USD (within your stated range)
 - **Estimated Weekly Hours**: 25 hrs/week
 - **Total Estimated Cost** (3 months): ~$12,000 USD  
   *(Adjustable depending on scope changes or added features)*
